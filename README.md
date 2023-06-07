@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Sanket Gupta</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isanketgupta&label=Profile%20views&color=0e75b6&style=flat" alt="isanketgupta" /> </p>
+<img align="right" alt="Coding" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 - 🔭 I’m currently working on **JavaScript, MEAN-Stack**
 

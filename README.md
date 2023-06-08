@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **System Design and Clean Code**
 
-- 📝 I regularly write articles on [https://medium.com/@guptasanketsg](https://medium.com/@guptasanketsg)
+- 📝 I regularly write articles on [https://medium.com/@isanketgupta](https://medium.com/@isanketgupta)
 
 - 💬 Ask me about **JavaScript, NodeJS, MongoDB, MySQL, Python, Linux, Opensource**
 
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/isanketgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/isanketgupta" height="30" width="40" /></a>
-<a href="https://medium.com/@guptasanketsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guptasanketsg" height="30" width="40" /></a>
+<a href="https://medium.com/@isanketgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@isanketgupta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
